@@ -8,7 +8,7 @@
 - 💬 Pregúntame sobre SvelteKit y crear una app de escritorio con ElectronJS.
 - 📫 Cómo contactarme: dev.andre.lat@gmail.com
 - 😄 Pronombres: Ches, Devan
-- ⚡ Dato curioso: Aprendí sobre desarrollo web en el 2008 pero lo retomé en el 2023.
+- ⚡ Dato curioso: Aprendí sobre desarrollo web en el 2008 pero lo retomé en el 2020.
 
 ## Mis Estadísticas de GitHub
 ![Tu Nombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-andre-lat&show_icons=true&theme=radical)
